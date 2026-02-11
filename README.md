@@ -2,5 +2,6 @@
 This is the exercise for basic machine learning. 
 
 Important: 
-- For part 2, Please download and upload Telco-Customer-Churn.csv to Colab for the code to work
-- For part 3, Please download and upload Mall_Customers.csv to Colab for the code to work
+- For part 2, Please download and upload Telco-Customer-Churn.csv to Colab for the code to work.
+- For part 3, Please download and upload Mall_Customers.csv to Colab for the code to work.
+- For Extra Credit, Please download and upload the Save_data.csv to Colab for the code to work.
